@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Piyush Singh</h1>
-<h3 align="center">An Aspiring Software Engineer from India</h3>
+<h3 align="center">A full Stack Developer from India.</h3>
 
 
-- 👨‍💻 Porfolio
+### 👨‍💻 [Porfolio](https://portfolio-piyush-singh.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/piyush-singh-0927a2330/" />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-</a>
-</p>
+### ⚡ Projects
+- [TeleMedicine web application]()
+- [AI Saas Web application](https://github.com/Piyush-Singh-coder/OmniAI)
+- [Real time chat application](https://github.com/Piyush-Singh-coder/chatty)
+- [Expense Tracker web application](https://github.com/Piyush-Singh-coder/ExpenseTrackerApp)
+- [Notes making web application](https://github.com/Piyush-Singh-coder/thinkboard-mern-stack)
+- [Travel & Listing application](https://github.com/Piyush-Singh-coder/havenly)
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://skillicons.dev">
