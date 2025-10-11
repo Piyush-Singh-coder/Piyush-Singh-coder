@@ -6,7 +6,7 @@
 
 ### ⚡ Projects
 - [TeleMedicine web application](https://github.com/Piyush-Singh-coder/TeleMed)
-- [Code Editor](https://github.com/Piyush-Singh-coder/Heaven-code)
+- [Code Editor](https://github.com/Piyush-Singh-coder/Horizon-code)
 - [AI Saas Web application](https://github.com/Piyush-Singh-coder/OmniAI)
 - [Real time chat application](https://github.com/Piyush-Singh-coder/chatty)
 - [Expense Tracker web application](https://github.com/Piyush-Singh-coder/ExpenseTrackerApp)
