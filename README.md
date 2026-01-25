@@ -2,7 +2,7 @@
 <h3 align="center">A full Stack Developer from India.</h3>
 
 
-### 👨‍💻 [Porfolio](https://portfolio-piyush-singh.vercel.app/)
+### 👨‍💻 [Porfolio](https://portfolio-piyush.pages.dev/)
 
 ### ⚡ Projects
 - [TeleMedicine web application](https://github.com/Piyush-Singh-coder/TeleMed)
