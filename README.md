@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,html,css,tailwind,js,react,nextjs,nodejs,express,spring,django,redux,mongodb,mysql,postgresql,npm,postman,docker,git,github,vercel,notion,blender,prisma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,html,css,tailwind,js,react,nextjs,nodejs,express,spring,django,redux,mongodb,mysql,postgresql,npm,postman,docker,git,github,vercel,notion,blender,cloudflare,vscode,prisma&theme=dark" />
 </a>
 
 
